@@ -1,0 +1,3 @@
+export const FILTER_PARTNERS = 'FILTER_PARTNERS';
+export const SET_DISTANCE = 'SET_DISTANCE';
+
