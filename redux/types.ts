@@ -1,3 +1,4 @@
 export const FILTER_PARTNERS = 'FILTER_PARTNERS';
 export const SET_DISTANCE = 'SET_DISTANCE';
+export const CHANGE_LOADER = 'CHANGE_LOADER';
 
